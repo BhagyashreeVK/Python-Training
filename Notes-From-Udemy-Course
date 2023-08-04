@@ -12,5 +12,6 @@ Splicing [star:stop:jump] -
 [:] - means include everything from start to stop
 [:3] - everything from beginning until 2. end limit is excluded.
 [4:] - starting from 4 and everything until end
+"tinker"[1:4] = ink
 stop is not included. stop index is excluded
 jump is no. characters to skip
