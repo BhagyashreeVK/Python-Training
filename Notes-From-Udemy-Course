@@ -3,6 +3,8 @@ Data Types: int, string, float, dict, list, tuple
 Variable type is dynamic and can be changed any time
 use type() to get type of variable
 
+Strings are immutable as in Java.
+
 String indexing & Splicing - 
 Indexing example - 
 a=Hello, a[2] =l, a[-1]=o
